@@ -33,3 +33,5 @@ The lines between the two are fuzzy.
 Question for you. 👇 
  
 What will happen if the Reverse proxy (or API Gateway) crashes?
+
+![image](https://github.com/user-attachments/assets/9451b488-bdcd-4234-af82-2ee5f3cfa4cf)
