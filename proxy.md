@@ -20,4 +20,5 @@ Follow me for insights on Leadership, System Design, Career Growth!
 Activate to view larger image,
 
 
-![Spinning Globe]https://github.com/ouminaElHassane/load_balancer_srategies/blob/master/proxy.gif
+![Spinning Globe](https://github.com/ouminaElHassane/load_balancer_srategies/blob/master/proxy.gif)
+
