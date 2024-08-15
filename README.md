@@ -58,7 +58,7 @@ When a client sends an HTTP request to a web server, here is the encapsulation p
 When the web server receives the bits, the headers get removed in reverse order until the HTTP request is left for the server to process.
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------
-![Spinning Globe](https://github.com/user-attachments/assets/26e25ae7-c8fc-4d03-9580-531d426ea579)
+![Spinning Globe](https://github.com/ouminaElHassane/load_balancer_srategies/blob/master/1722872735081.gif)
 
 
 Do you know those 8 common problems in large-scale production systems and their solutions? Time to test your skills! 
