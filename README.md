@@ -1,5 +1,6 @@
 # load_balancer_srategies
-![image](https://github.com/user-attachments/assets/ebd1c0f4-0235-464b-ba2d-9c25d8508181)
+![Spinning Globe](https://github.com/ouminaElHassane/load_balancer_srategies/blob/master/1723367376171.gif)
+
 
 𝟖 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐘𝐨𝐮 𝐌𝐮𝐬𝐭 𝐊𝐧𝐨𝐰
 
